@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liwenka1
 - 👀 I’m interested in leetcode
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on you
 - 📫 My Email is 2020583117@qq.com
