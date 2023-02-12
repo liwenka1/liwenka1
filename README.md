@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @liwenka1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in leetcode
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-true-kJoker/true-kJoker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 My Email is 2020583117@qq.com
