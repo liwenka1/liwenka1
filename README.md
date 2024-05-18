@@ -21,6 +21,14 @@ Welcome to here. I am a front-end development engineer. My personal website is [
 **Web Developer**
 
 <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=liwenka1&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=liwenka1&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liwenka1&layout=compact&theme=tokyonight" align=right />
 </picture>
 
