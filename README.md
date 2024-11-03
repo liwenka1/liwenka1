@@ -6,6 +6,8 @@
     •
     <a href="https://nav.liwenkai.fun">nav</a>
     •
+    <a href="https://s.liwenkai.fun">s</a>
+    •
     <a href="https://me.liwenkai.fun">me</a>
     •
     <a href="mailto:hi@2020583117@qq.com">mail</a>
