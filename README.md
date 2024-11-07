@@ -12,6 +12,6 @@
     •
     <a href="mailto:hi@2020583117@qq.com">mail</a>
     •
-    <a href="https://twitter.com/liwenka1">twitter</a>
+    <a href="https://x.com/liwenka1">x</a>
   </samp>
 </div>
